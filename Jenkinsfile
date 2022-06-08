@@ -20,7 +20,7 @@ pipeline {
 	post {
 		always {
 			echo " im awesome " }
-		sucess {
+		success {
 			echo " iam sucessful" }
 		failure {
 			echo "failed" }
